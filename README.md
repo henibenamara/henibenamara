@@ -14,7 +14,7 @@ I build production mobile and web apps from a single Flutter codebase, backed by
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
-| | |
+| Area | Tools |
 |---|---|
 | **Mobile & web** | Flutter, Dart, BLoC/Cubit, GetX, GoRouter |
 | **Backend** | Go, PocketBase, Node.js, REST APIs |
@@ -26,8 +26,8 @@ I build production mobile and web apps from a single Flutter codebase, backed by
 
 Most of my professional work lives in private company repositories, so these are public projects:
 
-- **[Portfolio](https://henibenamara.github.io)**: my portfolio, built with Flutter web and hosted on GitHub Pages.
-- **[Delivery platform](https://github.com/henibenamara/delivery-app-frontend-)**: Flutter app with a Node.js backend, built during my end-of-study internship.
+- **[Portfolio](https://henibenamara.github.io)**: my portfolio, written entirely in Dart with Flutter Web and no third-party packages ([source](https://github.com/henibenamara/henibenamara.github.io)).
+- **[Delivery platform](https://github.com/henibenamara/delivery-app-frontend-)**: Flutter app and [Node.js API](https://github.com/henibenamara/Delivery_app_Backend) for clients, couriers and admins, built as a team project during my end-of-study internship.
 - **[Company website](https://github.com/henibenamara/company_website)**: React, TypeScript and Tailwind CSS site, live at sise.vercel.app.
 - **Flutter showcase**: a clean-architecture reference project (link added once it's published).
 
