@@ -29,7 +29,8 @@ Most of my professional work lives in private company repositories, so these are
 - **[Portfolio](https://henibenamara.github.io)**: my portfolio, written entirely in Dart with Flutter Web and no third-party packages ([source](https://github.com/henibenamara/henibenamara.github.io)).
 - **[Delivery platform](https://github.com/henibenamara/delivery-app-frontend)**: Flutter app and [Node.js API](https://github.com/henibenamara/Delivery_app_Backend) for clients, couriers and admins, built as a team project during my end-of-study internship.
 - **[Company website](https://github.com/henibenamara/company_website)**: React, TypeScript and Tailwind CSS site, live at sise.vercel.app.
-- **[Flutter clean architecture](https://github.com/henibenamara/flutter-clean-architecture)**: a small reference app with BLoC, dependency injection and tests at every layer, verified by GitHub Actions.
+- **[Flutter shop app](https://github.com/henibenamara/flutter-shop-app)**: login, product catalog with debounced search and infinite scroll, and offline favorites. Feature-first clean architecture, BLoC, go_router and about 100 tests, verified by GitHub Actions.
+- **[Flutter clean architecture](https://github.com/henibenamara/flutter-clean-architecture)** ([live demo](https://henibenamara.github.io/flutter-clean-architecture/)): a small reference app with BLoC, dependency injection and tests at every layer.
 
 ## Let's connect
 
